@@ -45,22 +45,66 @@ This technique is possible without leaving the browser and works great for begin
     
 2. Open up an IDE or code editor (I use VS Code), make a new Python file and paste the code in.
     
-3. Run the code, and in the terminal, you see the scraped information. Sometimes Reddit blocks the request if you try too many requests, if so, wait a few seconds and keep trying.
+3. Sometimes Reddit blocks the request if you try too many requests, so it is a good practice to add your user agent to the headers of the request. User agents help website servers identify where your request is coming from, which makes it less likely to get blocked. Luckily, ChatGPT can help with this too!
+    
+4. Asking ChatGPT to add user agents to this beautifulsoup and python code returns the code with this as an update:
+    
+    `headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'}`
+    
+    `requests.get("`[`https://old.reddit.com/r/programming/`](https://old.reddit.com/r/programming/)`", headers=headers)`
+    
+5. Run the full code, and in the terminal, you see the scraped information!
     
     ![Code with the Reddit titles, post creator names, and number of comments printed out](https://cdn.hashnode.com/res/hashnode/image/upload/v1674182836585/e7ef9a74-2e9e-4b22-814f-a044d70af42b.png align="center")
     
-4. One thing you might notice is that the code scrapes the title names, in addition to the user who posted it and the number of comments it has. To get only the titles, you can ask ChatGPT this:
+6. One thing you might notice is that the code scrapes the title names, in addition to the user who posted it and the number of comments it has. To get only the titles, you can ask ChatGPT this:
     
     `web scrape only the post titles from` [`https://old.reddit.com/r/programming/`](https://old.reddit.com/r/programming/) `using python and beautifulsoup`
     
-5. Now, to save it to a CSV file, just ask ChatGPT to `update this code to save the title names in a csv file after running.`
+7. Now, to save it to a CSV file, just ask ChatGPT to `update this code to save the title names in a csv file after running.`
     
-6. Quick note, make sure to change the folder that you are in inside of your terminal, because that is where the CSV file will be created. To do this, use the [cd command](https://www.howtogeek.com/666127/how-to-use-the-cd-command-on-linux/).
+8. Quick note, make sure to change the folder that you are in inside of your terminal, because that is where the CSV file will be created. To do this, use the [cd command](https://www.howtogeek.com/666127/how-to-use-the-cd-command-on-linux/).
     
-7. After pasting the new code in, a CSV file will be added to your folder, and it contains all the article names!
+9. After pasting the new code in, a CSV file will be added to your folder, and it contains all the article names!
     
     ![Final CSV file](https://cdn.hashnode.com/res/hashnode/image/upload/v1674184084430/342045bb-714f-45ed-9187-bede9b78a5ed.png align="center")
     
+
+## Final Code
+
+Here is the final code:
+
+> ```python
+> import requests
+> from bs4 import BeautifulSoup
+> import csv
+> 
+> headers = {
+>     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
+> }
+> 
+> # Make a request to the website
+> response = requests.get("https://old.reddit.com/r/programming/", headers=headers)
+> 
+> # Parse the HTML content
+> soup = BeautifulSoup(response.content, "html.parser")
+> 
+> # Find all the elements with the class "title"
+> post_titles = soup.find_all("a", class_="title")
+> 
+> # Extract the text from the elements
+> titles = [title.get_text() for title in post_titles]
+> 
+> # Save the titles in a CSV file
+> with open('titles.csv', mode='w') as csv_file:
+>     fieldnames = ['title']
+>     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+>     writer.writeheader()
+>     for title in titles:
+>         writer.writerow({'title': title})
+>         
+> print("Titles saved in titles.csv file")
+> ```
 
 If you would like to add any more functionality, all you have to do is just ask ChatGPT using these same steps.
 
