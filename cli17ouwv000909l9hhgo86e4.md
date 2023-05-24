@@ -1,0 +1,65 @@
+---
+title: "18th Annual South Florida Devcon Brings Together Developers, Designers, Tech Professionals and Educators"
+datePublished: Wed May 24 2023 04:35:11 GMT+0000 (Coordinated Universal Time)
+cuid: cli17ouwv000909l9hhgo86e4
+slug: 18th-annual-south-florida-devcon-brings-together-developers-designers-tech-professionals-and-educators
+canonical: https://techhubsouthflorida.org/dev-con-2023-developers-designers-tech-professionals-educators/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684901726633/ab4fdd8b-1f4d-473c-8368-e316710a9bfb.jpeg
+tags: conference
+
+---
+
+**During #**[**SoFloTechMonth**](http://soflotechmonth.org/) **in April, South Florida’s month-long celebration of all things tech and innovation across the region, South Florida Tech Hub hosted its 18th annual** [**SoFlo DevCon**](https://www.soflodevcon.com/) **once again bringing hundreds in attendance for the event.**
+
+![](https://techhubsouthflorida.org/wp-content/uploads/2023/05/712A0331-300x200.jpg align="center")
+
+Held at Nova Southeastern University in Davie, the location was a perfect place to bring together those from Miami, Broward, Palm Beach, Martin County and even a few from the west coast of the state. In attendance were software developers, designers, engineers, tech professionals and event school district teachers and college professors from across South Florida.
+
+The event is the only fully regional tech education event FREE and open to the public with classes and sessions running all day long that are completely geared towards STEM and innovation. The event was free to attend, thanks to the support of community partners and sponsors such as this year’s Presenting Sponsor, [Cognizant](https://www.cognizant.com/us/en).
+
+The day kicked off with breakfast (sponsored by FAU’s College of Engineering) and 8:30 AM sessions. The first 300 guests through the door were also given a free conference t-shirt (sponsored by Streann Media), and a pizza party lunch was provided for all attendees sponsored by CITY Furniture.
+
+![Jeffrey Richman and Kishore Dandu with Cognizant address audience as Presenting Sponsor.](https://techhubsouthflorida.org/wp-content/uploads/2023/05/712A0390-300x200.jpg align="center")
+
+This year’s event featured a Leadership Track and Leadership Lunch in collaboration with Cognizant, CITY Furniture and SIM South Florida. [Jeffrey Richman](https://www.linkedin.com/in/jeffrichmanmba/), Customer Relationship Manager and [Kishore Dandu](https://www.linkedin.com/in/kishore-dandu-78320b9/), Client Partner of Energy & Utilities at Cognizant addressed the audience as Presenting Sponsor. Kishore spoke about the importance of events such as SoFlo DevCon in the tech community and how proud they are to give back to a local organization helping build the local tech talent. With hundreds of thousands of employees across the globe, Cognizant employs many technical and salespeople in the South Florida region. As tech in South Florida continues to blossom, they are happy to be a contributing part of the ecosystem.
+
+[Rebecca Bakels](https://www.linkedin.com/in/rebecca-bakels/), Software Engineer and Tech Community Advocate at CITY Furniture, highlighted that CITY Furniture is more than just a furniture company. CITY Furniture employs hundreds of people in technology and is using all sorts of innovative tech such as AR, data science, and app development all in-house to ensure the best customer experience. CITY Furniture also gives back thousands of dollars to local community programs and nonprofits each year.
+
+Rebecca is a benefactor of local tech initiatives and the South Florida Tech Hub community. As she began her journey into tech in 2020, she connected with South Florida Tech Hub, completed a Software Engineering course with Boca Code, became an intern at CITY Furniture and then was offered a full-time role to continue with the company. Rebecca is now involved with many nonprofit organizations and initiatives in the tech space in the region.
+
+[![](https://techhubsouthflorida.org/wp-content/uploads/2023/05/712A0188-300x200.jpg align="center")](https://techhubsouthflorida.org/wp-content/uploads/2023/05/712A0188-scaled.jpg)
+
+Each year, the conference attracts almost 1000 attendees and over 100 speakers, sponsors and exhibitors. The event featured 6 time slots for workshops and 12 separate tracks to choose from such as mobile/web development, professional development, entrepreneurship, AI/ML, blockchain & web3, UI/UX, and more. These tracks included a range of topics and workshops, including Machine Learning, AI, VR/AR/MR, IoT, .NET, DevOps, MVC Framework, JavaScript, JQuery, SQL Server, Business Intelligence, Software Testing, Xamarin/Mobile Development, Azure/Cloud, Business/Career Development.
+
+* **In the Web Development track**, Todd Albert, Lead Instructor and Founder at Boca Code remarked, “This year, we added several code-along workshops to our lineup, including Next.JS and ChatGPT by Jonathan Sanchez, building a game in Unity with SoFlo DevCon’s youngest speaker, 19-year-old Idan Fischer, and my talk where we live-coded a mobile app in React-Native. Each year, the conference seems to be more energetic and attended by more people. It’s always a great place to expand our knowledge and our networks.”
+    
+* **In the AI/ML track**, Founder of Indulgent Gifts and Thrivve Group, Roberta Barbosa, and US Managing Director of Exo Mindset, Bruno Savoca Albors, spoke. Barbosa presented the workshop Intro to Intelligent RPA. The workshop covered “the fundamentals of intelligent process automation and how it is helping businesses become more efficient and increase employee engagement. It also shared the RPA leaders in the industry, the tools available on the market, and the most common use cases.” Albors delivered a talk on the evolution of AI and ML, tracing its journey from early beginnings to the present day. He highlighted key milestones, including the emergence of machine learning as a subfield of AI, the rise of neural networks and deep learning, and the transformative impact of the digital age on AI and ML. Albors showcased modern applications across industries such as healthcare and finance and addressed ethical considerations and challenges, including bias and privacy. In conclusion, he provided a future outlook for AI and ML, emphasizing their significance in solving complex problems and shaping the future of technology.
+    
+* **In the Web Development track**, Todd Albert, Lead Instructor and Founder at Boca Code remarked, “This year, we added several code-along workshops to our lineup, including Next.JS and ChatGPT by Jonathan Sanchez, building a game in Unity with SoFlo DevCon’s youngest speaker, 19-year-old Idan Fischer, and my talk where we live-coded a mobile app in React-Native. Each year, the conference seems to be more energetic and attended by more people. It’s always a great place to expand our knowledge and our networks.”
+    
+* **In the blockchain track**, [ApparelMagic](http://www.apparelmagic.com/) CEO and cryptocurrency veteran [Brandon Ginsberg](https://www.linkedin.com/in/brandon-ginsberg/), and Azure Migrate & Modernize Lead at Microsoft and Co-Founder of Nebulai, Renatto Garro were two of the presenters. Ginsberg spoke about recent developments in the Ethereum ecosystem, including The Merge, Shanghai updates, and ERC-4337. His talk highlighted the importance of these updates in enhancing Ethereum’s scalability, security, and efficiency, and their potential implications for decentralized applications and the broader cryptocurrency landscape. Garro led the workshop Unlock the Power of Decentralized Identities. “Decentralized Identities promise to change the way we use the Internet giving us more control, security, and the ability to monetize our data,” Garro stated. “We discussed solutions from Microsoft like Entra and PolygonID, among others. It is truly inspiring what developers can start building with this technology.”
+    
+* **In the AR/VR track**, Principal engineer at Microsoft for Mixed Reality, Denise Mendez, Head of Emerging Tech & Innovation Division at [PeakActivity](https://peakactivity.com/), [Rob Petrosino](https://www.linkedin.com/in/robpetrosino/), and Harshal Sanghvi, Doctoral Candidate at Florida Atlantic University and Research and Development Specialist at Advanced Research LLC, presented workshops. Mendez talked about the scale of the XR industry, its value in the South Florida economy, and well as how to get started building cross-platform XR experiences in Unity. Petrosino spoke about AI & its impact on 3D, AR & XR. “Generative AI has changed how most organizations and teams will approach visualizing information, floor plans and their standard operating procedures without additional technical teams.” Sanghvi discussed the impacts of AI & AR on Medical Interventions and Imaging as diagnosing and treatment methods.
+    
+* **In the Leadership track**, Founder of B-Grade Media and Technology Advisor at Leafplanner, Q. Wade Billings led the session on “How to engineer a thriving engineering culture”. “In 2019, I had the opportunity to build an engineering culture from scratch, which is more complicated than it might sound,” Billings remarked. “To help my team and me in the effort, we designed a framework called the “Cultural Development Lifecycle (CDLC)” modeled after the well-known Software Development Lifecycle. This framework enabled us to conceive of, plan, develop, test, and measure our thriving engineering culture. My sincere hope and goal are that presenting the CDLC at SoFlo DevCon will inspire others to think about culture in a new and exciting light.”
+    
+* **In the Entrepreneurship track**, was a session, “Practical Steps to Turn Your Idea Into a Revenue Generating Business”, Managing Partner at Argent Strategies and CSO of Doxci, Aaron Chavez, covered everything from ideation to product development to early-stage scaling activities. His talk emphasized the significance of proper solution validation, as well as a heavy focus on non-capital-intensive activities that are accessible to all founders. During his talk, he stressed the significance of South Florida’s idea-rich founder economy and the need for said founders to progress by taking practical and cost-effective steps to move their ventures forward.
+    
+
+One of the unique aspects of SoFlo DevCon is that it is open to anyone interested in the tech and innovation community in South Florida. Attendees did not need to be developers to participate in the conference. Designers, project managers, creatives, entrepreneurs, founders, and anyone connected to the tech industry were all welcome to attend.
+
+![Idan Fischer receives Scott Katarancic Speaker Award.](https://techhubsouthflorida.org/wp-content/uploads/2023/05/712A0784-300x218.jpg align="center")
+
+Software engineer and game developer presented the workshop ‘Unleashing Your Creativity: Unity game development.’ “Participants learned how to create a game where the player collects coins while avoiding obstacles,” Fischer explained.
+
+“We went through the process of making a game, from making game objects to making scripts to control our objects. Overall, speaking at SoFlo Devcon was an amazing experience, especially for my first time speaking anywhere and first time at SoFlo Devcon. Thank you to everyone who came!”
+
+Idan was also voted the audience favorite receiving the Scott Katarincic Speaker Award, in remembrance of Scott who recently passed this year. He was a major part of planning past SoFlo DevCon events and working with all the speakers to ensure a successful event. It was only fitting that our youngest speaker ever at only 19 years old received the award and on his birthday, no less! The award was presented to Idan by Naomi Gayz, Scott’s girlfiend, and Annette Katarancic, Scott’s mother.
+
+![FPL/NextEra team](https://techhubsouthflorida.org/wp-content/uploads/2023/05/FPL_soflo-devcon-2023-300x223.jpg align="center")
+
+SoFlo DevCon 2023 was a huge success, bringing together the South Florida tech community and providing a platform for learning, networking, and collaboration. The day ended with an after-party happy hour and karaoke!
+
+South Florida Tech Hub’s Dev Con 2023 was made possible because of its sponsors: Presenting Sponsor, Cognizant, Tshirts, Streann Media, City Furniture provided lunch and Telerik by Progress sponsored ASL interpretation. Thanks to the supporting sponsors, including Florida Atlantic University, OZ Digital Consulting, NRG Way, Boca Code, SIM, Algorand, Agile Infoways, Total Wine & More, Amazon Web Services, Microsoft TEALS Program, Code Magazine, FPL, Office Depot, Carrier, Modernizing Medicine, Florida Crystals, Social Mobile, Verizon, and Dedicated IT, for their contributions to the event.
+
+[See more photos here](https://drive.google.com/drive/u/0/folders/1NCaqF1kofa3njgFvtyoqiBwEnFxu3VDA).
