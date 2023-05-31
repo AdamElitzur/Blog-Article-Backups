@@ -11,7 +11,7 @@ tags: startups, opportunity, build-in-public
 
 [**Buildspace,**](http://buildspace.so/) **a school that aims to help people learn how to build businesses in domains they love,  raised $10 million from funders such as Andreessen Horowitz, Founders Inc and Y-Combinator.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685288259991/2f44803f-eae5-4b93-9a8c-b706751eef8e.jpeg align="left")
+![Buildspace School in San Francisco](https://cdn.hashnode.com/res/hashnode/image/upload/v1685288259991/2f44803f-eae5-4b93-9a8c-b706751eef8e.jpeg align="left")
 
 The school is now offering a six-week, free, online *Nights & Weekends* program, where creators can pick an idea and build it with the guidance of mentors and peers. Any idea is possible in *Nights & Weekends*, with projects ranging from software such as AI or blockchain, engineering a bike that powers electricity, or art such as music and films. It’s a place where you can figure out what you’re passionate about, create something you love working on, and then learn how to turn that creation into a financially sustainable path you can pursue full-time.
 
@@ -28,7 +28,7 @@ During the six-week program, participants decide on a goal for their idea which 
 * End of Week 6: Demo Day
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685288049591/0f06ebf6-e0cd-430b-a3f1-46ac889be2ce.jpeg align="center")
+![Culminating event for Season 3 in San Francisco](https://cdn.hashnode.com/res/hashnode/image/upload/v1685288049591/0f06ebf6-e0cd-430b-a3f1-46ac889be2ce.jpeg align="center")
 
 During demo day, participants present their projects including their progress and struggles. 32 participants are picked to compete for a cash prize. Last season, Season 3, Buildspace awarded a total of $100,000 to four builders. A musician, a film maker, a game developer, and a farmer each received $25,000 as support in continuing to build their projects.
 
