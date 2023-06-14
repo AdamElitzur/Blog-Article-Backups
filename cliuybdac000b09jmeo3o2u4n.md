@@ -24,7 +24,7 @@ These six weeks have been the busiest, but best six weeks of my life. With the s
 
 I was in Boston and New York during the first week visiting family and touring colleges. I watched the Buildspace kickoff live stream in the car on the way back from a college tour. I finalized my idea by Thursday, April 13, and then, Farza, the founder of Buildspace, said that by Sunday, we should have version one of our idea! That got me building, and I started my React project in the car from Boston to New York. I built my v1, which could only fetch a song's lyrics and music video, no translation yet. But that was enough to submit for the first weekly update!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686699007679/0a31671d-6505-4f2d-8ebd-45ad9b668d07.jpeg align="center")
+![Version 1 of Songlingo](https://cdn.hashnode.com/res/hashnode/image/upload/v1686699007679/0a31671d-6505-4f2d-8ebd-45ad9b668d07.jpeg align="center")
 
 ### Week 2
 
@@ -48,7 +48,7 @@ I added translation to any language, so a song in Spanish could be translated to
 
 I then got feedback that it was hard to read lyrics without line separation by verse, so I reformatted the lyrics and added spacing.
 
-![Screenshot from Jazzify](https://pbs.twimg.com/media/FvVOzpNXwAAtY8L?format=jpg&name=900x900 align="left")
+![Lyrics formatted by verse](https://pbs.twimg.com/media/FvVOzpNXwAAtY8L?format=jpg&name=900x900 align="left")
 
 I then bought the domain [song-lingo.com](http://song-lingo.com), and started spreading the word. I told my language teacher about it, and she used Songlingo during our class to play a song and show the translation! The whole class really liked it!
 
@@ -58,7 +58,7 @@ I added social media share buttons, so users can share which song they are learn
 
 I had an engineering field trip to the Drones in School national competition at the AUVSI XPONENTIAL conference. On the plane, I redesigned Songlingo and made a logo.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1686699241936/7ceef34d-0b03-4fcc-a535-5b7fc758b937.jpeg align="center")
+![Updated Songlingo design](https://cdn.hashnode.com/res/hashnode/image/upload/v1686699241936/7ceef34d-0b03-4fcc-a535-5b7fc758b937.jpeg align="center")
 
 I then learned that some users didn't know which song to enter, so they left the website. I added a feature that allows users to retrieve a random song in any language, in case they want to explore new songs!
 
@@ -96,8 +96,8 @@ The IRL event in San Francisco was great! They had plenty of opportunities to ge
 
 I added Supabase as a database, as well as authentication so users can sign-up, and save words and songs to listen to later!
 
-In order to improve the site performance, I moved the fetch lyrics function to the server side, and I plan on moving other elements as well.  
-  
+In order to improve the site performance, I moved the fetch lyrics function to the server side, and I plan on moving other elements as well.
+
 I improved the UI of Songlingo, added [Tailwind CSS](https://tailwindcss.com/), and made the buttons more responsive.
 
 ## Recap
