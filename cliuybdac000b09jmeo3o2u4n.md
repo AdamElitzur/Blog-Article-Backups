@@ -94,7 +94,7 @@ The IRL event in San Francisco was great! They had plenty of opportunities to ge
 
 ## After Buildspace
 
-I added Supabase as a database, as well as authentication so users can sign-up, and save words and songs to listen to later!
+I added Supabase as a database, as well as authentication so users can sign-up, and save words and songs to listen to later! I added flashcards to the saved songs page, so users can study the words that they saved, Quizlet style!
 
 In order to improve the site performance, I moved the fetch lyrics function to the server side, and I plan on moving other elements as well.
 
