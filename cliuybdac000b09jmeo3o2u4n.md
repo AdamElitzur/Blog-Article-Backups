@@ -86,7 +86,7 @@ At night, I went back to the hotel and worked with [Rox](https://twitter.com/Rox
 
 I launched Songlingo on ProductHunt, with the help of [Dylan Molina](https://twitter.com/dxlantxch), which got over 90 upvotes, top 15 product of the day, and number 2 education product of the week!
 
-[Tylar Campbell](https://twitter.com/StoneAgeTc) helped me record a social media video, which drove a lot of traffic to the ProductHunt post.
+[Tylar Campbell](https://twitter.com/StoneAgeTc), who I enjoyed working with on our projects, helped me record a social media video, which drove a lot of traffic to the ProductHunt post.
 
 The IRL event in San Francisco was great! They had plenty of opportunities to get feedback and improve our products. They hosted an insightful question-and-answer session. And they had great food!
 
