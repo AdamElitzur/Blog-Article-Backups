@@ -52,4 +52,4 @@ Majeed has advice for people who have an idea but are not sure where to start.
 
 “Don’t overcomplicate it, just get something out there that you are kind of embarrassed by," he stated. "It’s ok to be embarrassed by it. Show other people, because there are not many people in the world who go from idea to showing other people their idea. If you’re already doing that, you are in the minority. Just get something out there, you have nothing to lose and everything to gain. Very few people understand this, you don’t need a thought together business, it doesn’t even need to make sense, it just needs to make you feel some joy.”
 
-[**Applications are now open**](https://buildspace.so/) **for Season 4 of the Buildspace *Nights & Weekends* program. The program begins July 1st.**
+[**Applications are now open**](https://buildspace.so/) **for Season 4 of the Buildspace *Nights & Weekends* program. The program begins August 5th.**
