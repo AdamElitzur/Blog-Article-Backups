@@ -110,4 +110,4 @@ Before Buildspace, I was stuck in this cycle of learning HTML, CSS, and JS witho
 
 I'd highly recommend Buildspace to anyone, whether you have never built anything before, or whether you are a seasoned builder.
 
-Nights & Weekends Season four starts on July 1. [Apply here](http://buildspace.so)!
+Nights & Weekends Season four starts on August 5th. [Apply here](http://buildspace.so)!
