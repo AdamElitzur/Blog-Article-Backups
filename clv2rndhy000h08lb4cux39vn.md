@@ -46,7 +46,7 @@ I then had the opportunity to view the Western Cohort’s demonstrations. It was
 
 ## Advice and Reflections
 
-Overall, my experience at the #HouseOfCode event was unforgettable. I got to showcase my work, network with passionate STEM professionals, and meet amazing student innovators from across the country. It was an honor to represent Florida’s 25th district at the Capitol. I can't wait to see what the future holds!
+Overall, my experience at the #HouseOfCode event was unforgettable. I got to showcase my work, network with passionate STEM professionals, and meet amazing student innovators from across the country. It was an honor to represent Florida’s 25th district at the Capitol.
 
 Thank you so much to Joseph Alessi (Program Director, Congressional App Challenge), and Ryan Kirzner (Congressional Operations Coordinator). #HouseOfCode was an incredible and inspiring event, and I'm so thankful for the opportunity to attend.
 
