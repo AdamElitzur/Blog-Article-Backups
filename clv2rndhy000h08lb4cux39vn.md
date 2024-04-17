@@ -22,7 +22,7 @@ The rest of the first day was packed with engaging panel discussions and worksho
 
 After, there was a great fireside chat covering "The New and More Modern House of Representatives" led by Yuri Beckelman (U.S. House of Representatives), Ananda Bhatia (U.S. House of Representatives, and Taylor J. Swift (POPVOX Foundation). This was an inspiring talk that made me want to eventually get involved with Congress' tech innovations.
 
-Then, we had another amazing panel about the future in AI and AR, led by Jason Darko (Snap), Natalie Lao (MIT App Inventor), and Isabella Hochschild (Dartmouth Student and Congressional App Challenge Alumni Advisory Board).
+Then, we had another amazing panel about the future in AI and AR, led by Joe Darko (Snap), Natalie Lao (MIT App Inventor), and Isabella Hochschild (Dartmouth Student and Congressional App Challenge Alumni Advisory Board).
 
 ![Panel Session Featuring Stories of Responsible Pathways in STEM and Tech](https://cdn.hashnode.com/res/hashnode/image/upload/v1713281607973/bfc32812-ac60-45f2-9cfd-9eb302d27ba6.jpeg?height=500 align="center")
 
@@ -48,9 +48,11 @@ I then had the opportunity to view the Western Cohort’s demonstrations. It was
 
 Overall, my experience at the #HouseOfCode event was unforgettable. I got to showcase my work, network with passionate STEM professionals, and meet amazing student innovators from across the country. It was an honor to represent Florida’s 25th district at the Capitol. I can't wait to see what the future holds!
 
+Thank you so much to Joseph Alessi (Program Director, Congressional App Challenge), and Ryan Kirzner (Congressional Operations Coordinator). #HouseOfCode was an incredible and inspiring event, and I'm so thankful for the opportunity to attend.
+
 Next year, I am considering applying to the Congressional App Challenge Alumni Advisory Board, and hopefully have the opportunity to help plan next year’s #HouseOfCode for all of the future winners!
 
-I would highly recommend creating an application, and submitting it to your local Congressional App Challenge. To see if your district participates, check this [page](https://www.congressionalappchallenge.us/students/participating-districts/).
+I would highly recommend applying to your local Congressional App Challenge. To see if your district participates, check this [page](https://www.congressionalappchallenge.us/students/participating-districts/).
 
 My advice is to code something that aims to solve a problem in your community. It doesn't have to be a mobile app, it could be also be a website, desktop app, or anything else in code. Many other winners used [MIT App Inventor](https://appinventor.mit.edu/) to build their apps, which is a powerful tool.
 
