@@ -4,6 +4,7 @@ datePublished: Tue Apr 16 2024 19:17:50 GMT+0000 (Coordinated Universal Time)
 cuid: clv2rndhy000h08lb4cux39vn
 slug: presenting-my-startup-to-congress-at-the-nations-capitol-congressional-app-challenges-houseofcode
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713293838308/552d8b7e-e0e3-4535-afb1-55ad230decce.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1713401243516/1992cf09-167c-42ec-bb15-b8f0bf654533.png
 tags: startups, languages, entrepreneurship, politics, congress, congressional-app-challenge, houseofcode
 
 ---
